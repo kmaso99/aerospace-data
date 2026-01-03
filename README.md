@@ -16,16 +16,6 @@ I like shipping end-to-end systems: **data pipelines → ML models → lightweig
 
 ## Featured projects
 
-### 🐾 Wildlife Image Classification API
-
-Production-ready **FastAPI + PyTorch** service for wildlife species classification.
-
-**Tech:** FastAPI, PyTorch, Docker, GitHub Actions
-
-**Highlights:** transfer learning, CI pipeline, containerized inference
-
-Repo: (link)
-
 ### 🌊 Flood Mapping from Sentinel‑1 SAR
 
 Rapid change detection for disaster response using **pre/post-event SAR**.
