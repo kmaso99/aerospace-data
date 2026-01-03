@@ -1,6 +1,6 @@
-# Aerospace Data
+# Aerospace Data Analyses 🚀
 
-This is where I build **data science + geospatial analytics** projects with an emphasis on **aerospace, defense (unclassified/OSINT), and environmental intelligence**.
+This repo is a collection of **data science + geospatial analytics** projects with an emphasis on **aerospace, defense (unclassified/OSINT), and environmental intelligence**.
 
 I like shipping end-to-end systems: **data pipelines → ML models → lightweight APIs**.
 
